@@ -1,0 +1,18 @@
+data7: far side
+data8: near side
+data9: near side (timing cable was removed)
+       (timings of two signals are the same to be used for coin)
+
+
+----- December 18, 2019 ------
+----- K. Katayama       ------
+**change channel**
+ADC1 is for the small scintillator
+ADC2 is for the long scintillator
+
+data10: near side
+data11: far side
+data12: center
+
+data15: put one book(table of isotopes) between scintillators
+data16: put two book(table of isotopes) between scintillators

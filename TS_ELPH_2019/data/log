@@ -1,0 +1,30 @@
+Data taking started at 11:30 on Oct 10, 2019.
+Gogami, Suzuki, Katayama, Toyoda, Ohashi
+
+HV=1700V for both PMTs
+
+test2.dat cosmic ray
+test3.dat A in
+test4.dat B in
+
+I noticed that B in rate is low.
+Threshold for B was lowered. 
+
+test5.dat B in
+test6.dat cosmic ray (A and B)
+
+Pedestal of B cannt be clearly seen. 
+
+test7.dat A in
+
+It was found that delay module needs to be isolated  from the bin.
+(Only for ch0)
+
+test8.dat B in
+test9.dat A in
+16:12 test10.dat cosmic ray(A and B)
+
+2019/10/11
+10:00 test11.dat cosmic ray (A and B)
+
+
